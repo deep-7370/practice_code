@@ -1,2 +1,2 @@
 # practice_code
-some practice code
+practice problem
