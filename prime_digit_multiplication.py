@@ -17,8 +17,8 @@ def main(a):
             num+=1
     q=nth_prime(a)
     q_count=0
+    q1=str(q)
     for i in q1:
-        print("i=",i)
         q_count+=int(i)
     return q_count*a
 print(main(5))
